@@ -1,5 +1,16 @@
 🌟This is simplle HTML, CSS, JAVASCRIPT website made to complete the task provided by the E-cell club of MNNIT PRAYAGRAJ, ALLAHABAD.
 
+
+
+**
+🌟By clicking on Home page-> Redirected to the main page
+
+🌟By clicking on Grid button -> Redirected to the second  page
+
+🌟By clickng on Linkedin Button -> Redirected to the user linkedin profile.
+**
+
+
 🌟This is a responsive website can be run in any of devices.
 
 🌟It is based on the Squid Game theme.So,lets explore the website.
@@ -9,10 +20,5 @@ last row and last column then you will see that the red colour will changes to a
 the colour of that cell will be changed first which you clicked first and then second and so on...(Ascending order)..
 So, this can also be played as a game of memory i.e; how you strongly remember the steps you had taken in a sequence manner..
 
-🌟The secoond page of website coontaains tthe basic information of the developer in a themed  way..
+🌟The second page of website coontaains tthe basic information of the developer in a themed  way..
 
-🌟By clicking on Home page-> Redirected to the main page
-
-🌟By clicking on Grid button -> Redirected to the second  page
-
-🌟By clickng on Linkedin Button -> Redirected to the user linkedin profile
