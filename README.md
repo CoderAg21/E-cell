@@ -1,7 +1,7 @@
 🌟This is simplle HTML, CSS, JAVASCRIPT website made to complete the task provided by the E-cell club of MNNIT PRAYAGRAJ, ALLAHABAD.
 
 
-<h3>GuideLines</h3>
+<h2><u>Guidelines</u></h2>
 
 **✨By clicking on Home page-> Redirected to the main page.**
 
