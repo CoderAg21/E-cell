@@ -3,9 +3,9 @@
 
 <h2><u>Guidelines</u></h2>
 
-**✨By clicking on Home page-> Redirected to the main page.**
+**✨By clicking on Home page-> Redirected to the second  page.**
 
-**✨By clicking on Grid button -> Redirected to the second  page.**
+**✨By clicking on Grid button -> Redirected to the main page.**
 
 **✨By clickng on Linkedin Button -> Redirected to the user linkedin profile.**
 
