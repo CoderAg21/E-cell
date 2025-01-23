@@ -2,13 +2,13 @@
 
 
 
-**
-🌟By clicking on Home page-> Redirected to the main page
+
+**🌟By clicking on Home page-> Redirected to the main page
 
 🌟By clicking on Grid button -> Redirected to the second  page
 
-🌟By clickng on Linkedin Button -> Redirected to the user linkedin profile.
-**
+🌟By clickng on Linkedin Button -> Redirected to the user linkedin profile.**
+
 
 
 🌟This is a responsive website can be run in any of devices.
