@@ -4,7 +4,7 @@
     top: 0;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+    width: 102vw;
     background-image: url("bg.jpg");
     animation-name: bodyImg;
     animation-duration: 4s;
@@ -21,7 +21,6 @@ li a:hover{
 }
 .squidLogo {
     opacity: 0;
-
     animation-name: intro;
     animation-duration: 6s;
     animation-delay: 3s;
@@ -37,8 +36,6 @@ li a:hover{
     top: 70px;
     width: 80vw;
     height: 80vh;
-    /* background-color: #d7d7b4;
-     */
      background-image: linear-gradient( 111.4deg,  rgba(238,113,113,1) 1%, rgba(246,215,148,1) 58% );
     border: 2px solid rgb(255, 129, 129);
     border-radius: 20px;
